@@ -10,7 +10,7 @@ Tiago Morais:
  - System Architecture
  - Requirement Analist
 
-Rui Pinto:
+Rui:
  - Secondary Developer
  - System Architecture
 
@@ -40,12 +40,40 @@ Not functional:
 
 Functional:
 
- 1. Login Page
- 2. Logout Page
- 3. Register Page
- 4. View Charts (What Kinds of charts?) Exemples: Predictions, Data Storage in Database, other stuff
- 5. Send commands to server
- 6. Filter Data: By Name, Preference
- 7. Integrate to Database
+ 1. Login Page;
+ 2. Logout Page;
+ 3. Register Page;
+ 4. View Charts (What Kinds of charts?) Exemples: Predictions, Data Storage in Database, other stuff;
+ 5. Send commands to server;
+ 6. Filter Data: By Name, Preference;
+ 7. Integrate to Database.
 
-## 
+## Work of each element
+
+### First Week (15/03 to 22/03) 
+Tomás Silva:
+ - ...
+
+Tiago Morais:
+ - Requirements Analysis
+ 
+Rui:
+ - Requirements Analysis
+
+Cameron Davis:
+ - ...
+
+Jiaxi Yan:
+ - ...
+
+Meow:
+ - ...
+
+Will:
+ - ...
+ 
+ 
+ 
+ 
+ 
+ 
